@@ -11,7 +11,6 @@ This project is completed as part of the curriculum for the Udacity Data Scienti
 
 ## Files Used
 I used the `MutualFunds.csv` which can be downloaded from Kaggle at the following link: https://www.kaggle.com/stefanoleone992/mutual-funds-and-etfs?select=MutualFunds.csv
-Special thanks to Stefao Leone for making this dataset available on Kaggle. The original data was scrapped from Yahoo Finance (https://finance.yahoo.com/). 
 
 I downloaded the data source from Kaggle that had been last updated on December 12, 2021. A copy of this file is included with this project. The file was too large to be uploaded on GitHub without being compressed hence the file is provided in zipped format. Please unzip the file first before running the code.
 
@@ -19,3 +18,13 @@ Please note that downloading the data directly from Kaggle using the link provid
 
 ## Questions to be addressed
 1. 
+
+
+## Further Reference
+For more information on my analysis please read the accompanying blogpost on Medium which can be found at the following link: 
+
+## Acknowledgements
+Special thanks to Stefao Leone for making this dataset available on Kaggle. The original data was scrapped from Yahoo Finance (https://finance.yahoo.com/). 
+
+## License
+<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0: Public Domain</a>
