@@ -33,7 +33,7 @@ Please note that downloading the data directly from Kaggle using the link provid
 3. Can the (i) Morningstar return rating, (ii) 5 year average fund performance, (iii) investment style and (iv) size type, be used to predict current performance? The model generated an r-squared score of 0.28 on test data which indicated the factors identified had some value in explaining the variation in current performance, however, it was not considered high enough to deem the model very useful for use in prediction. In was concluded that further work would need to be done to improve the model
 
 ## Further Reference
-For more information on my analysis please read the accompanying blogpost on Medium which can be found at the following link: 
+For more information on my analysis please read the accompanying blogpost on Medium which can be found at the following link: https://medium.com/@kennedychinyam2/three-insights-about-investing-in-mutual-funds-in-the-united-states-cf5c92b74fa0 
 
 ## Acknowledgements
 Special thanks to Stefao Leone for making this dataset available on Kaggle. The original data was scrapped from Yahoo Finance (https://finance.yahoo.com/). 
